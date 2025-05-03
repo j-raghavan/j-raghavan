@@ -2,7 +2,7 @@
 
 ## 👨‍💻 About Me
 
-Tech veteran with 25+ years of experience in IT leadership roles, currently focused on Agentic AI development as a Founding Engineer. Based in Cupertino, California, I'm passionate about working on opensource projects that help the community through practical automation solutions. Interested in Agentic AI applications and Rust development.
+Tech veteran with 25+ years of experience in IT leadership roles, currently focused on Agentic AI development as a Founding Engineer. I'm passionate about working on opensource projects that help the community through practical automation solutions. Interested in Agentic AI applications and Rust development.
 
 ## 🚀 Professional Experience
 
