@@ -6,7 +6,7 @@ Tech veteran with 25+ years of experience in IT leadership roles, currently focu
 
 ## 🚀 Professional Experience
 
--- **Technical Leader (Agent AI)** at Neeve Inc (2025-Present)
+- **Technical Leader (Agent AI)** at Neeve Inc (2025-Present)
   - Responsible for ROBIN AI (A browser based agentic AI solution) 
   - Leading the team riding the AI wave 
 
