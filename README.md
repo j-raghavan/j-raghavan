@@ -38,6 +38,7 @@ Tech veteran with 25+ years of experience in IT leadership roles, currently focu
 - Two granted patents in Voice over IP technology
 - Advanced Cybersecurity Certification from Stanford University
 - NLP with Deep Learning Certificate from Stanford University
+- Author of two advanced python books `Mastering Performant Code` which is available on [Amazon](https://www.amazon.com/s?i=digital-text&rh=p_27%3AJayasimha%2BRaghavan&s=relevancerank&text=Jayasimha+Raghavan&ref=dp_byline_sr_ebooks_1)
 
 ## 🌱 Current Focus
 
