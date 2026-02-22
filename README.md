@@ -6,7 +6,11 @@ Tech veteran with 25+ years of experience in IT leadership roles, currently focu
 
 ## 🚀 Professional Experience
 
-- **Founding Engineer (Agentic AI Lead)** at Unskript Inc (2021-Present)
+-- **Technical Leader (Agent AI)** at Neeve Inc (2025-Present)
+  - Responsible for ROBIN AI (A browser based agentic AI solution) 
+  - Leading the team riding the AI wave 
+
+- **Founding Engineer (Agentic AI Lead)** at Unskript Inc (2021-2025)
   - Architected agentic AI systems reducing MTTR by 65% for customer incidents
   - Developed abstraction layers for Multi-Agentic solutions with strict guardrails
   - Led integration of OpenAI and opensource LLMs into core product suite
