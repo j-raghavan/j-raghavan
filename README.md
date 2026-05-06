@@ -4,15 +4,6 @@
 
 Tech veteran with 25+ years of experience in IT leadership roles, currently focused on Agentic AI development as a Founding Engineer. I'm passionate about working on opensource projects that help the community through practical automation solutions. Interested in Agentic AI applications and Rust development.
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=j-raghavan&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=j-raghavan&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
-</p>
 
 ## 🚀 Professional Experience
 
